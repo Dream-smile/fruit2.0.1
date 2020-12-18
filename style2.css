@@ -1,0 +1,223 @@
+.hezi1{
+	width: 1200px;
+	margin: 0 auto;
+}
+.daohang {
+    width: 1200px;
+    height: 100px;
+    text-align: center;
+    margin: 0 auto;
+}
+.logo {
+    width: 236px;
+    height: 80px;
+    margin-top: 10px;
+    padding: 0;
+}
+.nav {
+    margin-top: 39px;
+}
+.nav li {
+    float: left;
+    padding: 0 44px;
+    border-right: 2px solid rgba(0, 0, 0, 1);
+}
+li.first {
+    padding-left: 20px;
+}
+li.last {
+    border: none;
+    padding-right: 20px;
+}
+.nav a {
+    font-size: 16px;
+    font-weight: bold;
+    color: rgba(0, 0, 0, 1);
+}
+.nav a:hover{
+		color: orange;
+	}
+.form {
+    margin-top: 34px;
+}
+.form * {
+    float: left;
+}
+.form .search {
+    width: 147px;
+    height: 11px;
+    border: 1px solid rgba(255, 123, 45, 1);
+    padding: 9px;
+}
+.form .submit {
+    width: 31px;
+    height: 31px;
+    border: 1px solid rgba(255, 123, 45, 1);
+    background: rgba(255, 123, 45, 1) url(search.png) no-repeat center center;
+    cursor: pointer;
+}
+.fl {
+    float: left;
+}
+.fr {
+    float: right;
+}
+.banner {
+    height: 550px;
+    overflow: hidden;
+    position: relative;
+}
+.banner1 {
+    width: 100%;
+    overflow: hidden;
+    height: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.prev{
+    position: absolute;
+    top: 222px;
+    left: 6%;
+    width: 106px;
+    height: 106px;
+    opacity: 0.2;
+}
+.next {
+    position: absolute;
+    top: 222px;
+    right: 6%;
+    width: 106px;
+    height: 106px;
+    opacity: 0.2;
+}
+.word1{
+	width: 300px;
+	height: 80px;
+	margin-left: 160px;
+	margin-top: 10px;
+	font-size: 50px;
+	color: blue;
+	text-align: center;
+	background: yellow;
+	display: inline-block;
+}
+.word2{
+	margin-left:300px;
+	font-size: 20px;
+	display:inline-block; 
+}
+.hezi3{
+	width: 1400px;
+	margin: 0 auto;
+	position: relative;
+}
+.tupianqu{
+	display: inline-block;
+}
+.tupian1{
+	width: 398px;
+	height: 602px;
+	margin-top: 10px;
+	margin-left: 100px;
+}
+.smallphoto{
+	display: inline-block;
+	position: relative;
+}
+.tupian2{
+	width: 398px;
+	height: 300px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.fg{
+	float: left;
+}
+.word3{
+	width: 398px;
+	height: 50px;
+	background-color: rgba(0,0,0,0.4);
+	position: absolute;
+	bottom: 4px;
+	left: 10px;
+	font-size: 30px;
+	color: yellow;
+	text-align: center;
+}
+.hezi4{
+	width: 1200px;
+	height: 400px;
+	background-image: url(7.jpg);
+	margin: 0 auto;
+	position: relative;
+}
+.word4{
+	width: 400px;
+	height: 100px;
+	margin-top: 10px;
+	font-size: 20px;
+	font-weight: bold;
+	color: rgb(0;0;0;1);
+}
+.tupiankuang{
+	width: 300px;
+	height: 300px;
+	position: absolute;
+	left: 40px;
+	bottom: -10px;
+}
+.tupian3{
+	width: 300px;
+	height: 280px;
+}
+.biaodan{
+	width: 600px;
+	height: 400px;
+	position: absolute;
+	right: 0px;
+	top: 0px;
+}
+.biaoge{
+	width: 600px;
+	height: 400px;
+}
+.xiaobiaoge{
+	width: 300px;
+	height: 35px;
+	font-size: 30px;
+}
+.button{
+	padding-left: 100px;
+}
+.xiao1{
+	color: purple;
+	font-weight: bold;
+}
+.hezi5{
+	height: 200px;
+	background-color: rgba(100,100,100,1);
+	margin-top: 10px;
+	position: relative;
+	top: 30px;
+}
+.wenzi5{
+	font-size: 15px;
+	color:#fff;
+	width: 300px;
+	position: absolute;
+	top: 45%; 
+	left: 0;
+	bottom: 0;
+	right: 0;
+	margin: auto;
+}
+.time{
+	position: relative;
+	top: 20px;
+	height:200px;
+	font-size: 50px;
+	padding-top: 40px;
+	background-image: url(https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=595682642,3670018750&fm=11&gp=0.jpg);
+	text-align: center;
+}
